@@ -1,0 +1,7 @@
+Application avec : 
+- 1 : Des recette de cuisines
+- 2 : La gestion de son stock d'aliments (ex : 4L de lait, 2 Kg de pomme de terre, 6 oeufs) (En gros ce qu'on a dans son frigo ou placard
+
+On aura la possibilité avec cette appli de :
+- Choisir une recette (1) et de savoir ce qu'il nous manque pour la faire (2).
+- Checker son stock (2) et trouver une recette possible (1) en fonction de ce que l'on a.
